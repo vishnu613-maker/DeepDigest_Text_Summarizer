@@ -1,7 +1,7 @@
 streamlit
 transformers
 torch
-summarizer==0.0.6
+summarizer==0.0.7 --no-build-isolation
 nltk
 spacy
 PyPDF2
