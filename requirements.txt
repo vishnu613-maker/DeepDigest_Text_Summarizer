@@ -6,3 +6,5 @@ nltk
 spacy
 PyPDF2
 python-docx
+setuptools>=65.5.0
+wheel
